@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nexport default (() => __jsx(\"span\", null, \"\\u6D4B\\u8BD5\"));","map":{"version":3,"sources":["D:/练习/React/demo_next/components/Com.jsx"],"names":[],"mappings":";;AAAA,gBAAe,MAAK,mCAApB","sourcesContent":["export default ()=> <span>测试</span>"]},"metadata":{},"sourceType":"module"}
